@@ -110,9 +110,5 @@ The following details and steps on how to deploy this application
 See detailed [Deploying django app on Heroku](https://devcenter.heroku.com/articles/django-app-configuration)
 
 
-## Contributing
-
-If you have any question or issues, It may have bugs that i may have missed. You can create <a href="https://github.com/Yawan-1/StackOverFlow--Clone/pulls">Pull request</a> or you can also contact me.
-
 
 
